@@ -1,2 +1,7 @@
-# Harsha10022/SQL--Project-Consumer-Goods
- I have done this project as a part of codebasics SQL project challenge using MYSQL
+
+# SQL_Project---
+# consumer-Goods-Ad-hoc-Insights
+
+This is a data analytics project, I have done using MYSQL as a part of codebasics SQL project challenge. 
+
+
